@@ -1,0 +1,28 @@
+That would help spotting the differencesmade in file specially typos 
+and that could cause bugs\
+
+we can see how the file evolved\
+
+cons : u could forget to save
+          u could lose the file before saving manually
+
+pros : u choose the time so the system 
+      would not save useless checkpoints\
+
+
+GIT is built for code and programming projects like a game 
+or a mobile app needs a lots of connected file to function 
+properly\
+
+
+#How can you use the commands git log and git diff to view the history of files?
+we can log the project to the commits made and use (git diff)
+to see what was changed in a commit \
+
+
+#How might using version control make you more confident to make changes that could break something?
+I can make mistakes freely because I can checkout a previous commit anytime.\
+
+
+#Now that you have your workspace set up, what do you want to try using Git for?
+I want to save my project so not to lose again on a hard-drive breakdown

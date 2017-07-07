@@ -1,0 +1,4 @@
+#How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is kind of a connection betwen the working directory and the repo. it is a separation between them\
+
+
