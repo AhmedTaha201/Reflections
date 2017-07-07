@@ -5,3 +5,10 @@ The staging area is kind of a connection betwen the working directory and the re
 Comparing the working directory to the staging area we can find the 
 changes to the the project and we can make sure it`s one logical change\
 
+#What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+we should use branche when making experimental changes
+or adding a new feature that couldn`t possibly work
+
+#How do the diagrams help you visualize the branch structure?
+we could now the commits of each branches and build an image 
+of the project\
